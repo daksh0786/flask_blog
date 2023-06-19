@@ -1,0 +1,19 @@
+ {
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/disease_predictor",
+        "prod_uri":"mysql://root:@localhost/disease_predictor",
+        "fb_url": "https://facebook.com/disease_predictor",
+        "tw_url": "https://twitter.com/disease_predictor",
+        "gh_url": "https://github.com/disease_predictor",
+        "blog_name": "disease_predictor",
+        "gmail-user":"dakshpalwal@gmail.com",
+        "gmail-password": " ",
+        "admin-username":"ram@gmail.com",
+        "admin-password":"ram",
+        "no_of_posts":1,
+        "upload_location":"D:\\new downloads\\new\\flask2\\static"
+
+    }
+ }
